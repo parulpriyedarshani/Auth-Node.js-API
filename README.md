@@ -1,8 +1,6 @@
 # Auth-Node.js-API
-##
 A basic node.js API project for user authentication using JsonWebToken(JWT) along with data validation.
 # Technologies used
-##
 1. Node.js
 2. Express.js
 3. MongoDB Atlas for connecting to the database
